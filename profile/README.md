@@ -51,7 +51,7 @@
 
 건축 프로젝트 정보를 입력하면 **예상 LEED 점수·등급·추가비용·Payback**을 자동 산출하는 웹 플랫폼입니다.
 LEED **V3 / V4**, **신축(NC) / Core & Shell** 조합을 지원하고 점수표·비용표·차트를 엑셀로 내보낼 수 있습니다.
-ECOLEAD의 LEED 크레딧 산출 노하우를 제품화한 서비스입니다 *(관련 특허 보유, 2016)*.
+ECOLEAD의 LEED 크레딧 산출 노하우를 제품화한 서비스입니다 *(관련 특허 등록, 2017)*.
 
 <p>
 <img src="https://img.shields.io/badge/LEED-V3%20%7C%20V4-009639?style=flat-square" />
@@ -82,13 +82,16 @@ ECOLEAD의 LEED 크레딧 산출 노하우를 제품화한 서비스입니다 *(
 
 **대표 인증 획득 실적**
 
-- 🏆 **2024** NAVER 데이터센터 각 세종 — LEED v4 **PLATINUM** (86/110)
-- 🥇 **2021** Henkel 송도 — LEED v4 **GOLD**
+- 🏆 **2024** NAVER 데이터센터 **각 세종** — LEED v4 **PLATINUM** (86/110)
+- 🏆 **2013** 춘천 NHN(네이버) 지식정보센터 **'각'** — LEED **PLATINUM**
+- 🥇 **2023** 쉥커코리아 인천공항 센터 · 풀무원 양지센터 — LEED **GOLD**
+- 🥇 **2021** 부산 Microsoft 데이터센터 — LEED **GOLD**
+- 🥇 **2020** Henkel 송도 — LEED v4 **GOLD**
+- 🥇 **2019** 풀무원 오송연구원 — LEED v4 **GOLD**
 - 🥇 **2018** 코오롱 ONE&ONLY 타워(미래기술원) — LEED v4 **GOLD**
 - 🥇 **2016** 여의도 IBK FINANCE TOWER — LEED **GOLD**
-- 🥇 **2014** 한국GM 디자인센터 — LEED **GOLD**
-- 🥇 **2013** SK케미칼 안동 백신공장 — LEED **GOLD**
-- ➕ 그 외 데이터센터·물류센터·교육시설 **GOLD** 다수, 글로벌 럭셔리 브랜드 리테일(ID+C) 인증 다수 수행
+- 🥇 **2014** 한국GM 디자인센터 — LEED **GOLD** · **2013** SK케미칼 안동 백신공장 — LEED **GOLD**
+- 🥈 DIOR·Cartier 등 글로벌 럭셔리 리테일(ID+C) **SILVER** 다수 (2022~) · 그 외 데이터센터·물류센터 GOLD 다수
 
 ---
 
@@ -99,8 +102,8 @@ ECOLEAD의 LEED 크레딧 산출 노하우를 제품화한 서비스입니다 *(
 | 연도 | 주요 마일스톤 |
 |---|---|
 | **2026** | 에코빌드(ecobuild.co.kr) **신규 플랫폼 전면 리뉴얼** — FastAPI · Next.js · PostgreSQL 기반 재구축 |
-| **2017** | **AABC Commissioning Group Member** 인정 — 커미셔닝(Cx) 자격 취득 |
-| **2016** | **특허 취득** (LEED 크레딧 산출방법 및 산출 서버) · 특허 기술을 제품화한 **LEED 비용산출 웹서비스 '에코빌드' 출시** |
+| **2017** | **특허 등록** (LEED 크레딧 산출방법 및 산출 서버) |
+| **2016** | **AABC Commissioning Group Member** 인정 — 커미셔닝(Cx) 자격 취득 · 특허 기술을 제품화한 **LEED 비용산출 웹서비스 '에코빌드' 출시** |
 | **2015** | 엔지니어링협회 등록 |
 | **2013** | USGBC **Silver 회원** 승급 · **기밀성능 시험(Air Tightness Test)·커미셔닝 업무 개시** · FSC™ COC 인증 — 주한미군 발주(FED) 프로젝트 본격 수행 |
 | **2012** | 기술보증기금 **벤처기업** 지정 · 한국산업기술진흥협회 **기업부설연구소** 인정 |

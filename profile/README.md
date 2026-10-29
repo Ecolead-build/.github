@@ -63,15 +63,46 @@ ECOLEAD의 LEED 크레딧 산출 노하우를 제품화한 서비스입니다 *(
 
 ---
 
-## 🏆 Highlights
+## 📊 Track Record
 
-- 🥇 **2018** 자연순환 미래연구원 — LEED **V4 GOLD** 인증
-- 🥇 **2016** 여의도 IBK FINANCE TOWER — LEED **GOLD** 인증
-- 🥇 **2014** 한국GM 프로젝트 — LEED **GOLD** 인증
-- 🥇 **2013** SK 프로젝트 — LEED **GOLD** 인증
-- 📜 **2016** 특허 등록 — LEED 크레딧 산출방법 및 산출 장치
-- 🤝 **USGBC 회원** · **AABC Commissioning Group Member**
-- 🔬 기업부설연구소 · 기술평가보증기업 · 벤처기업 인증
+2010년 설립 이후 **380건 이상**의 프로젝트를 수행했습니다. *(수행 실적 전체는 [ecolead.co.kr](http://ecolead.co.kr) 참조)*
+
+| 분야 | 수행 건수 |
+|---|---|
+| 🏅 LEED 인증 컨설팅 | **164건+** |
+| 🍃 친환경 인증 (G-SEED·에너지효율등급 등) | **135건+** |
+| 🔧 Building Commissioning | **68건+** |
+| 🔍 Special Inspection | **20건+** |
+
+**주요 고객·발주처**
+
+- 🏗️ **건설·엔지니어링** — 삼성물산 · 삼성전자 · 포스코건설 · 대우건설 · 현대엔지니어링 · KCC건설 · 이테크건설 · 삼우건축설계 외 다수
+- 💎 **글로벌 브랜드** — HERMÈS · DIOR · Cartier · CHANEL · LVMH · NAVER · 롯데
+- 🇺🇸 **주한미군 발주(FED) 프로젝트** — 평택·오산·대구·군산 등 LEED 인증·커미셔닝·Special Inspection 다수 수행
+
+**대표 인증 획득 실적**
+
+- 🥇 **2018** 코오롱 미래기술원 — LEED **V4 GOLD**
+- 🥇 **2016** 여의도 IBK FINANCE TOWER — LEED **GOLD**
+- 🥇 **2014** 한국GM 디자인센터 — LEED **GOLD**
+- 🥇 **2013** SK케미칼 안동 백신공장 — LEED **GOLD**
+- 🥈 **2015** 한국항공우주연구원 직장어린이집 — LEED **SILVER**
+
+---
+
+## 📜 History
+
+| 연도 | 주요 연혁 |
+|---|---|
+| **2018** | 코오롱 미래기술원 LEED V4 GOLD 인증 획득 |
+| **2017** | AABC Commissioning Group Member 인정 (커미셔닝 자격 취득) |
+| **2016** | 특허 취득 (LEED 크레딧 산출방법 및 산출 서버) · IBK FINANCE TOWER LEED GOLD 인증 |
+| **2015** | 한국항공우주연구원 직장어린이집 LEED SILVER 인증 · 엔지니어링협회 등록 |
+| **2014** | 한국GM 디자인센터 LEED GOLD 인증 획득 |
+| **2013** | SK케미칼 안동 백신공장 LEED GOLD 인증 · USGBC Silver 회원 · 기밀성능 시험(Air Tightness Test)·커미셔닝 업무 개시 · FSC™ COC 인증 |
+| **2012** | 기술보증기금 벤처기업 지정 · 한국산업기술진흥협회 기업부설연구소 인정 |
+| **2011** | USGBC 회원 가입 · 에코리드(주) 법인 전환 · 용산구 갈월동 확장 이전 |
+| **2010** | 에코리드 설립(서울 중구 필동) · 에코리드 교육원 설립 — GS/현대/SK/대림/대우건설 등 LEED GA/AP 교육 실시 |
 
 ---
 
